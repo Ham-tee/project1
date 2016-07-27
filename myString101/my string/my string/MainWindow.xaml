@@ -1,0 +1,22 @@
+﻿<Window x:Class="my_string.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:my_string"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="button" Content="Length" HorizontalAlignment="Left" Margin="10,32,0,0" VerticalAlignment="Top" Width="113" Click="button_Click" Height="22"/>
+        <Button x:Name="button1" Content="subStrings" HorizontalAlignment="Left" Margin="10,59,0,0" VerticalAlignment="Top" Width="113" Click="button1_Click" Height="25"/>
+        <Button x:Name="button2" Content="indexOf" HorizontalAlignment="Left" Margin="10,89,0,0" VerticalAlignment="Top" Width="113" Height="24" Click="button2_Click"/>
+        <Button x:Name="button3" Content="string insert" HorizontalAlignment="Left" Margin="128,32,0,0" VerticalAlignment="Top" Width="106" Height="22" Click="button3_Click"/>
+        <Button x:Name="button4" Content="string replace" HorizontalAlignment="Left" Margin="128,59,0,0" VerticalAlignment="Top" Width="106" Height="25" Click="button4_Click"/>
+        <Button x:Name="button5" Content="string delete" HorizontalAlignment="Left" Margin="128,89,0,0" VerticalAlignment="Top" Width="106" Height="22" Click="button5_Click"/>
+        <Button x:Name="button6" Content="list split" HorizontalAlignment="Left" Margin="239,34,0,0" VerticalAlignment="Top" Width="101" Height="25"/>
+        <Button x:Name="button7" Content="string compare" HorizontalAlignment="Left" Margin="239,64,0,0" VerticalAlignment="Top" Width="101" Height="25"/>
+        <Button x:Name="button8" Content="toLower" HorizontalAlignment="Left" Margin="239,94,0,0" VerticalAlignment="Top" Width="101"/>
+        <Button x:Name="button9" Content="ToUpper" HorizontalAlignment="Left" Margin="345,34,0,0" VerticalAlignment="Top" Width="103" Height="25" Click="button9_Click"/>
+
+    </Grid>
+</Window>

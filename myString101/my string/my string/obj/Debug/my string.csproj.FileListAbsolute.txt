@@ -1,0 +1,29 @@
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\bin\Debug\my string.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\bin\Debug\my string.exe
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\bin\Debug\my string.pdb
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\bin\Debug\ThinkLib.dll
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\my string.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\MainWindow.g.cs
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\App.g.cs
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\my string_MarkupCompile.cache
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\my string_MarkupCompile.lref
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\MainWindow.baml
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\my string.g.resources
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\my_string.Properties.Resources.resources
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\my string.csproj.GenerateResource.Cache
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\my string.exe
+c:\users\user1\documents\visual studio 2015\Projects\my string\my string\obj\Debug\my string.pdb
+C:\Users\g16h3600\Downloads\myString101\my string\my string\bin\Debug\my string.exe.config
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\my string.exe
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\my string.pdb
+C:\Users\g16h3600\Downloads\myString101\my string\my string\bin\Debug\my string.exe
+C:\Users\g16h3600\Downloads\myString101\my string\my string\bin\Debug\my string.pdb
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\my string.csprojResolveAssemblyReference.cache
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\MainWindow.g.cs
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\App.g.cs
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\my string_MarkupCompile.cache
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\my string_MarkupCompile.lref
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\MainWindow.baml
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\my string.g.resources
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\my_string.Properties.Resources.resources
+C:\Users\g16h3600\Downloads\myString101\my string\my string\obj\Debug\my string.csproj.GenerateResource.Cache
